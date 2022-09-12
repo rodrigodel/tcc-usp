@@ -2,8 +2,8 @@
 
 <br>
 
-|   |   |   |
-|---|---|---|
+|   |   |
+|---|---|
 | Aluno: Rodrigo Del Fiume Zambon  |  Data início curso: XX/XX/XXXX |
 | Orientador: enatha Accioly Negreiros | Defesa em: XX/XXXX
 | Curso: MBA Data Science e Analytics - Modalidade: Distância | Turma: 212 |
@@ -59,6 +59,8 @@ Quando pedimos a alguém para estimar qualquer feature em um projeto, a estimati
 <br>
 
 ### 4. Material e Métodos
+
+<br>
 
 Os dados serão obtidos por meio do sistema de gerenciamento de produtos do time pesquisado. Será extraída do sistema uma tabela em formato CSV (valores separados por vírgulas) com duas colunas, uma de estimativa dos pontos de histórias e o respectivo lead time. 
 
