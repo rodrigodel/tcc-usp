@@ -5,7 +5,7 @@
 |   |   |
 |---|---|
 | Aluno: Rodrigo Del Fiume Zambon  |  Data início curso: XX/XX/XXXX |
-| Orientador: enatha Accioly Negreiros | Defesa em: XX/XXXX
+| Orientador: Renatha Accioly Negreiros | Defesa em: XX/XXXX
 | Curso: MBA Data Science e Analytics - Modalidade: Distância | Turma: 212 |
 
 <br>
